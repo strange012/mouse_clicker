@@ -13,8 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     packages=find_packages(),
     install_requires=[
-        'pywin32 >= 1.0;platform_system=="Windows"',
-        'pyautogui >= 0.1.0'
+        'pywin32 >= 1.0;platform_system=="Windows"'
     ],
     classifiers=[
         "Programming Language :: Python :: 3.7",

@@ -4,7 +4,6 @@ import win32api, win32con
 import time
 import math
 
-import pyautogui
 def main_win32():
     DELAY_MAX = 0.01
     DELAY_MIN = 0.00001
