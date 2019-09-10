@@ -1,0 +1,4 @@
+minivenv
+__pycache__
+*.pyc
+.vscode
